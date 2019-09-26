@@ -1,26 +1,45 @@
 {
-    "tableMetadata" : {
-        "id" : 1,
-        "tableName" : "test123",
+    "spitalians" : {
+        "content": [
+            {
+            "id": 1,
+            "name": "Dr. Hernez Vasco",
+            "area": "???"
+            },
+            {
+            "id" : 2,
+            "name" : "Prov. Kranzler",
+            "area" : "Borca",
+            "age" : 61,
+            "isAlive" : true
+            },
+            {
+            "id" : 3,
+            "name" : "Dr. Vega",
+            "area" : "Franka",
+            "age" : 32,
+            "isAlive" : true
+            }
+        ],
         "columns" : [
             {
-                "name" : "ID",
+                "name" : "id",
                 "type" : "text"
             },
             {
-                "name" : "Name",
+                "name" : "name",
                 "type" : "text"
             },
             {
-                "name" : "Surname",
+                "name" : "area",
                 "type" : "text"
             },
             {
-                "name" : "Age",
+                "name" : "age",
                 "type" : "number"
             },
             {
-                "name" : "IsMarried",
+                "name" : "isAlive",
                 "type" : "boolean"
             }
         ]
