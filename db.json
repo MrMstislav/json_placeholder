@@ -1,25 +1,28 @@
 {
-    "tableName" : "test123",
-    "columns" : [
-        {
-            "name" : "ID",
-            "type" : "text"
-        },
-        {
-            "name" : "Name",
-            "type" : "text"
-        },
-        {
-            "name" : "Surname",
-            "type" : "text"
-        },
-        {
-            "name" : "Age",
-            "type" : "number"
-        },
-        {
-            "name" : "IsMarried",
-            "type" : "boolean"
-        }
-    ]
+    "tableMetadata" : {
+        "id" : 1,
+        "tableName" : "test123",
+        "columns" : [
+            {
+                "name" : "ID",
+                "type" : "text"
+            },
+            {
+                "name" : "Name",
+                "type" : "text"
+            },
+            {
+                "name" : "Surname",
+                "type" : "text"
+            },
+            {
+                "name" : "Age",
+                "type" : "number"
+            },
+            {
+                "name" : "IsMarried",
+                "type" : "boolean"
+            }
+        ]
+    }
 }
