@@ -23,23 +23,28 @@
         ],
         "columns" : [
             {
-                "name" : "id",
+                "text" : "id",
+                "value" : "id",
                 "type" : "text"
             },
             {
-                "name" : "name",
+                "text" : "name",
+                "value" : "name",
                 "type" : "text"
             },
             {
-                "name" : "area",
+                "text" : "area",
+                "value" : "area",
                 "type" : "text"
             },
             {
-                "name" : "age",
+                "text" : "age",
+                "value" : "age",
                 "type" : "number"
             },
             {
-                "name" : "isAlive",
+                "text" : "isAlive",
+                "value" : "isAlive",
                 "type" : "boolean"
             }
         ]
