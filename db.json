@@ -25,27 +25,27 @@
             {
                 "text" : "id",
                 "value" : "id",
-                "type" : "Text"
+                "type" : "text"
             },
             {
                 "text" : "name",
                 "value" : "name",
-                "type" : "Text"
+                "type" : "text"
             },
             {
                 "text" : "area",
                 "value" : "area",
-                "type" : "Text"
+                "type" : "text"
             },
             {
                 "text" : "age",
                 "value" : "age",
-                "type" : "Number"
+                "type" : "number"
             },
             {
                 "text" : "isAlive",
                 "value" : "isAlive",
-                "type" : "Boolean"
+                "type" : "boolean"
             }
         ]
     }
